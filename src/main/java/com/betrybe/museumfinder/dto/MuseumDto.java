@@ -5,7 +5,8 @@ import com.betrybe.museumfinder.model.Coordinate;
 /**
  * Dto da classe Museum.
  */
-public record MuseumDto(Long id,
+public record MuseumDto(
+    Long id,
     String name,
     String description,
     String address,

@@ -8,6 +8,9 @@ import com.betrybe.museumfinder.util.CoordinateUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * Classe de serviço de Museum.
+ */
 @Service
 public class MuseumService implements MuseumServiceInterface {
 

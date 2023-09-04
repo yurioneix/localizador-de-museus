@@ -42,8 +42,8 @@ public class Museum {
     return address;
   }
 
-  public void setAddres(String addres) {
-    this.address = addres;
+  public void setAddress(String address) {
+    this.address = address;
   }
 
   public String getCollectionType() {

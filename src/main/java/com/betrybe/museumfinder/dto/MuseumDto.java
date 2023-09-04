@@ -1,8 +1,16 @@
 package com.betrybe.museumfinder.dto;
 
+import com.betrybe.museumfinder.model.Coordinate;
+
 /**
  * Dto da classe Museum.
  */
-public class MuseumDto {
-
-}
+public record MuseumDto(Long id,
+    String name,
+    String description,
+    String address,
+    String collectionType,
+    String subject,
+    String url,
+    Coordinate coordinate
+) {}

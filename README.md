@@ -81,3 +81,17 @@ Neste projeto foi implementado uma API cuja principal funcionalidade é facilita
           }
       ```
 </details>
+
+<br>
+
+## Pastas/arquivos desenvolvidos por mim
+
+```bash
+  src/main/java/com.betrybe.museumfinder.controller.MuseumController
+  src/main/java/com.betrybe.museumfinder.dto
+  src/main/java/com.betrybe.museumfinder.exception.ControllerHandlerException
+  src/main/java/com.betrybe.museumfinder.exception.InvalidCoordinateException
+  src/main/java/com.betrybe.museumfinder.exception.MuseumNotFoundException
+  src/main/java/com.betrybe.museumfinder.model.Museum
+  src/main/java/com.betrybe.museumfinder.service.MuseumService
+```

@@ -65,6 +65,7 @@ Neste projeto foi implementado uma API cuja principal funcionalidade é facilita
    
   - Um exemplo de chamada:
     - URL: `http://localhost:8080/museums/closest?lat=-20.4435&lng=-54.6478&max_dist_km=10`
+    - Retorno da requisição com status 200:
       ```json
           {
             "name": "Parque Estadual das Várzeas do Rio Ivinhema",
